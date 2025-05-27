@@ -1,2 +1,15 @@
-# Elevate-Labs-Task-2
-Created a dynamic To-Do list where users can add, remove, and mark tasks complete with all the requirements you mentioned
+Dynamic To-Do List
+
+A simple, interactive To-Do List web app that allows users to add, complete, and delete tasks instantly—without page reload.
+
+Features
+- Add new tasks
+- Mark tasks as complete using checkboxes
+- Delete individual tasks
+- Instant updates to the UI without refreshing the page
+- Clean and minimal design with HTML, CSS, and JavaScript
+
+Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
