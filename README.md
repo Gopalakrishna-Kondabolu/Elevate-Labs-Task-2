@@ -1,4 +1,4 @@
-To-Do List App
+Dynamic To-Do List App
 
 A simple, interactive To-Do List web app that allows users to add, complete, and delete tasks instantly—without page reload.
 
